@@ -4,3 +4,9 @@ C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.pdb
 C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.csprojResolveAssemblyReference.cache
 C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.exe
 C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.pdb
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.exe.config
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.exe
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.pdb
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.csprojResolveAssemblyReference.cache
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.exe
+C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.pdb

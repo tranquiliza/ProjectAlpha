@@ -46,6 +46,12 @@ namespace ProjectAlpha
             measurements.Add(m10);
             /* TEST DATA END */
         }
+        public string getDate()
+        {
+            string answer = "";
+            answer += this.date.ToString();
+            return answer;
+        }
         public void addMeasurement(Streak s)
         {
             measurements.Add(s);

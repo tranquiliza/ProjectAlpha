@@ -20,6 +20,7 @@ namespace ProjectAlpha
             test.addMeasurement(s1);
             Console.WriteLine(test.sumTotalString());
             Console.WriteLine(test.sumTotal());
+            Console.WriteLine(test.getDate());
         }
     }
 }
