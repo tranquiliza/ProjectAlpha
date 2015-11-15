@@ -10,7 +10,16 @@ namespace ProjectAlpha
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Measurement test = new Measurement(1, "Nordlandsvej", "Case - 1000");
+            //Console.WriteLine(test.sumTotalString());
+
+            Streak s1 = new Streak(1,10);
+            test.addMeasurement(s1);
+
+            s1 = new Streak(4, 2);
+            test.addMeasurement(s1);
+            Console.WriteLine(test.sumTotalString());
+            Console.WriteLine(test.sumTotal());
         }
     }
 }

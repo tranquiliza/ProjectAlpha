@@ -1,1 +1,6 @@
 C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.exe.config
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.exe
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.pdb
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.csprojResolveAssemblyReference.cache
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.exe
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.pdb
