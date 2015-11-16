@@ -21,6 +21,13 @@ namespace ProjectAlpha
             Console.WriteLine(test.sumTotalString());
             Console.WriteLine(test.sumTotal());
             Console.WriteLine(test.getDate());
+            DateTime now;
+            while (true)
+            {
+                now = DateTime.Now;
+                System.Threading.Thread.Sleep(1000);
+                Console.WriteLine(now.ToString());
+            }
         }
     }
 }
