@@ -29,10 +29,14 @@ namespace ProjectAlpha
             mc.getSheet(1).addMeasurement(new Measurement_Well(13));
 
             mc.getSheet(2).addMeasurement(new Measurement_Tile(10));
-            mc.getSheet(2).addMeasurement(new Measurement_Tarmac_Road(8));
+            mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
+            mc.getSheet(2).addMeasurement(new Measurement_Drilling(8));
+            mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
+            //mc.getSheet(2).addMeasurement(new Measurement_Tarmac_Road(8));
+            //mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
             //mc.getSheet(2).addMeasurement(new Measurement_Drilling(8));
             mc.getSheet(2).addMeasurement(new Measurement_Cobbles(2));
-            mc.getSheet(2).addMeasurement(new Measurement_Grube(2));
+            //mc.getSheet(2).addMeasurement(new Measurement_Grube(2));
             mc.getSheet(2).addMeasurement(new Measurement_Tile(50));
             mc.getSheet(2).addMeasurement(new Measurement_Tile(2));
             mc.getSheet(2).addMeasurement(new Measurement_Gravel(15));
