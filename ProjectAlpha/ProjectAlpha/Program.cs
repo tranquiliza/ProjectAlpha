@@ -10,24 +10,20 @@ namespace ProjectAlpha
     {
         static void Main(string[] args)
         {
-            Measurement test = new Measurement(1, "Nordlandsvej", "Case - 1000");
-            //Console.WriteLine(test.sumTotalString());
+            MeasurementCatalog mc = new MeasurementCatalog();
+            mc.addSheet("file1", "Nordlandsvej 87g");
+            mc.addSheet("file2", "Skolebakken 20");
 
-            Streak s1 = new Streak(1,10);
-            test.addMeasurement(s1);
-
-            s1 = new Streak(4, 2);
-            test.addMeasurement(s1);
-            Console.WriteLine(test.sumTotalString());
-            Console.WriteLine(test.sumTotal());
-            Console.WriteLine(test.getDate());
+            mc.printAll();
+            /*
             DateTime now;
             while (true)
             {
                 now = DateTime.Now;
                 System.Threading.Thread.Sleep(1000);
+                Console.Clear();
                 Console.WriteLine(now.ToString());
-            }
+            }*/
         }
     }
 }
