@@ -8,8 +8,10 @@ namespace ProjectAlpha
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+            Form_Measurement_1 form1 = new Form_Measurement_1();
             MeasurementCatalog mc = new MeasurementCatalog();
             mc.addSheet("Test1", "Nordlandsvej 87g");
             mc.addSheet("Test2", "Skolebakken 20");
@@ -32,11 +34,7 @@ namespace ProjectAlpha
             mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
             mc.getSheet(2).addMeasurement(new Measurement_Drilling(8));
             mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
-            //mc.getSheet(2).addMeasurement(new Measurement_Tarmac_Road(8));
-            //mc.getSheet(2).addMeasurement(new Measurement_Grube(1));
-            //mc.getSheet(2).addMeasurement(new Measurement_Drilling(8));
             mc.getSheet(2).addMeasurement(new Measurement_Cobbles(2));
-            //mc.getSheet(2).addMeasurement(new Measurement_Grube(2));
             mc.getSheet(2).addMeasurement(new Measurement_Tile(50));
             mc.getSheet(2).addMeasurement(new Measurement_Tile(2));
             mc.getSheet(2).addMeasurement(new Measurement_Gravel(15));

@@ -10,3 +10,5 @@ C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\bin\Debug\ProjectAlpha.p
 C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.csprojResolveAssemblyReference.cache
 C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.exe
 C:\Users\DanielP\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.pdb
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.Form_Measurement_1.resources
+C:\Users\Tranq\ProjectAlpha\ProjectAlpha\ProjectAlpha\obj\Debug\ProjectAlpha.csproj.GenerateResource.Cache
