@@ -52,6 +52,10 @@
     <Compile Include="Form_Measurement_1.Designer.cs">
       <DependentUpon>Form_Measurement_1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Measurement.cs" />
+    <Compile Include="MeasurementCatalog.cs" />
+    <Compile Include="MeasurementSheet.cs" />
+    <Compile Include="Measurement_Interface_Controller.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_Measurement_1.resx">

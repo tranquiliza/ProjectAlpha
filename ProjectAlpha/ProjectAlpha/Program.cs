@@ -11,7 +11,7 @@ namespace ProjectAlpha
 
         static void Main(string[] args)
         {
-            Form_Measurement_1 form1 = new Form_Measurement_1();
+
             MeasurementCatalog mc = new MeasurementCatalog();
             mc.addSheet("Test1", "Nordlandsvej 87g");
             mc.addSheet("Test2", "Skolebakken 20");
